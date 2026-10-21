@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_editar_nombre_ej13"
+        android:title="Editar nombre"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_editar_precio_ej13"
+        android:title="Editar precio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_editar_descripcion_ej13"
+        android:title="Editar descripción"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_restablecer_ej13"
+        android:title="Restablecer valores"
+        app:showAsAction="never" />
+</menu>

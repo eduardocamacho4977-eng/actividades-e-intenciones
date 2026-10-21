@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_editar_titulo_ej10"
+        android:title="Editar título"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_editar_autor_ej10"
+        android:title="Editar autor"
+        app:showAsAction="never" />
+</menu>
